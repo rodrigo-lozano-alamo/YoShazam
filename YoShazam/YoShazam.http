@@ -1,0 +1,6 @@
+@YoShazam_HostAddress = http://localhost:5233
+
+GET {{YoShazam_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

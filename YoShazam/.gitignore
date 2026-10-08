@@ -1,0 +1,19 @@
+# Node
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+*.log
+
+# Vite
+frontend/dist/
+frontend/node_modules/
+backend/node_modules/
+
+# Build artifacts
+*.tsbuildinfo
+
+# .NET artifacts already present in the workspace
+bin/
+obj/
